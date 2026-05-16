@@ -105,9 +105,7 @@ The controller runs entirely within a 5ms interrupt cycle on the STM32 — no ad
 ---
 
 ## Demonstration
-
-<!-- Add your hardware photos here -->
-[Hardware Setup](assets/gyroBike demo.mp4)
+[Click to watch the demo video](assets/gyroBike demo.mp4)
 
 ---
 
