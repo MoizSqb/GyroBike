@@ -106,7 +106,14 @@ The controller runs entirely within a 5ms interrupt cycle on the STM32 — no ad
 
 ## Demonstration
 [Click to watch the demo video](assets/gyroBike%20demo.mp4)
+
 ![Hardware Setup](assets/IMG_1837.jpg)
+
+---
+
+## Recognition
+
+🏆 Won at the FYP Competition at UGC — [View LinkedIn Post](https://www.linkedin.com/posts/ee-fyp-group-won-during-fyp-competition-at-ugcPost-7459564240400449536-cmIs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1lr-ABXR2vnA6dTEw6Hxnrgr5K4ipx964)
 
 ---
 
