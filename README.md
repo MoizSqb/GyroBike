@@ -126,7 +126,4 @@ The controller runs entirely within a 5ms interrupt cycle on the STM32 — no ad
 - Real-time embedded systems programming on ARM Cortex-M4
 - The gap between theoretical control design and physical hardware implementation
 
----
 
-## Department
-Electrical Engineering, FAST-NU Lahore
